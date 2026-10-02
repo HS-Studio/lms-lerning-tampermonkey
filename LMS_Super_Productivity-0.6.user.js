@@ -541,11 +541,6 @@
 
                 // ------------------------------------------------
                 // Haupttask erledigt?
-                //
-                // Nur dann wird die LMS-Aufgabe markiert.
-                //
-                // Der Subtask "erledigt" spielt hier bewusst
-                // keine Rolle.
                 // ------------------------------------------------
 
                 if (spTask.isDone) {

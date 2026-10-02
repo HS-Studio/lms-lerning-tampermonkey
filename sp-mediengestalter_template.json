@@ -1,0 +1,2740 @@
+{
+    "timestamp": 1790176650021,
+    "lastUpdate": 1790176650021,
+    "crossModelVersion": 4.5,
+    "data": {
+        "task": {
+            "ids": [],
+            "entities": {},
+            "currentTaskId": null,
+            "selectedTaskId": null,
+            "taskDetailTargetPanel": null,
+            "lastCurrentTaskId": null,
+            "isDataLoaded": true,
+            "dismissedCalendarAutoImportEventIdsByProvider": {}
+        },
+        "project": {
+            "ids": [
+                "INBOX_PROJECT",
+                "1j4QyEASb4A0fIGwIMEox",
+                "rivSOsL0ppZ9lHKP__We6",
+                "H3r_U0uI1yIfmXMAlc9SO",
+                "7BuS44Icd48W85QL3tXw6",
+                "yyUjH09tsr61Kbkaq8LdR",
+                "ymFONiH6phNJy8SFSw5gW",
+                "xFRG5kPYpQAQPLlmvdMFE",
+                "LNmBfjSWdfthxj2NuSN2v",
+                "1bapR21a15uI_8QK9Di11",
+                "aRkkKXWQhSlgTNPV231tS",
+                "L2Ir-2ZVAvmk3rynIhjKU",
+                "QMCrcTLiPhLC3gZRsmJlb",
+                "rLYFb1ZACphZbMBLxZneM",
+                "NO8IeI29djX8natNxMRWX",
+                "glNoK5ZDYscWPES3aMeuA",
+                "XOIo5f9uyo7ZXBwThrQqP",
+                "v92v4sPKI2vU1Ds0yvPoJ",
+                "zw3WTWqoxWjDYUxM6tLcY",
+                "nxiDzh02fuZ4n_oqc-Wrl",
+                "jEPrQ7haHQzGWLRadLere",
+                "PiD-2cQPnq57WLQqTlhSR",
+                "Chjg6EPRCGFZPMbsWnlCO"
+            ],
+            "entities": {
+                "INBOX_PROJECT": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "rgb(144, 187, 165)",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": "",
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": "inbox",
+                    "id": "INBOX_PROJECT",
+                    "title": "Inbox"
+                },
+                "1j4QyEASb4A0fIGwIMEox": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ffca28",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "1j4QyEASb4A0fIGwIMEox",
+                    "title": "[GG] GESTALTUNGSGRUNDLAGEN"
+                },
+                "rivSOsL0ppZ9lHKP__We6": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ffca28",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "rivSOsL0ppZ9lHKP__We6",
+                    "title": "[LAT] LERN- UND ARBEITSTECHNIKEN"
+                },
+                "H3r_U0uI1yIfmXMAlc9SO": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ffee58",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "H3r_U0uI1yIfmXMAlc9SO",
+                    "title": "[WiSo] WIRTSCHAFT UND SOZIALES"
+                },
+                "7BuS44Icd48W85QL3tXw6": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ef5350",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "7BuS44Icd48W85QL3tXw6",
+                    "title": "[EDV] GESTALTUNGSGRUNDLAGEN"
+                },
+                "yyUjH09tsr61Kbkaq8LdR": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#29a1aa",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "yyUjH09tsr61Kbkaq8LdR",
+                    "title": "[KOM] KOMMUNIKATION"
+                },
+                "ymFONiH6phNJy8SFSw5gW": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ff7043",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "ymFONiH6phNJy8SFSw5gW",
+                    "title": "[MR] MEDIENRECHT"
+                },
+                "xFRG5kPYpQAQPLlmvdMFE": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ffca28",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "xFRG5kPYpQAQPLlmvdMFE",
+                    "title": "[ID] ADOBE INDESIGN"
+                },
+                "LNmBfjSWdfthxj2NuSN2v": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#42a5f5",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "LNmBfjSWdfthxj2NuSN2v",
+                    "title": "[PS] ADOBE PHOTOSHOP"
+                },
+                "1bapR21a15uI_8QK9Di11": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#8d6e63",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "1bapR21a15uI_8QK9Di11",
+                    "title": "[AI] ADOBE ILLUSTRATOR"
+                },
+                "aRkkKXWQhSlgTNPV231tS": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ffa726",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "aRkkKXWQhSlgTNPV231tS",
+                    "title": "[AP] ARBEITSPLANUNG"
+                },
+                "L2Ir-2ZVAvmk3rynIhjKU": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ffca28",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "L2Ir-2ZVAvmk3rynIhjKU",
+                    "title": "[DH] DATENHANDLING"
+                },
+                "QMCrcTLiPhLC3gZRsmJlb": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ab47bc",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "QMCrcTLiPhLC3gZRsmJlb",
+                    "title": "[MI] MEDIENINTEGRATION"
+                },
+                "rLYFb1ZACphZbMBLxZneM": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#29a1aa",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "rLYFb1ZACphZbMBLxZneM",
+                    "title": "[ACRO] ACROBAT"
+                },
+                "NO8IeI29djX8natNxMRWX": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#26c6da",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "NO8IeI29djX8natNxMRWX",
+                    "title": "[HTML/CSS] HTML UND CSS"
+                },
+                "glNoK5ZDYscWPES3aMeuA": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#78909c",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "glNoK5ZDYscWPES3aMeuA",
+                    "title": "[UX/UI] USER EXPERIENCE UND USER INTERFACE"
+                },
+                "XOIo5f9uyo7ZXBwThrQqP": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ef5350",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "XOIo5f9uyo7ZXBwThrQqP",
+                    "title": "[PT] PROTOTYPING: FIGMA"
+                },
+                "v92v4sPKI2vU1Ds0yvPoJ": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#5c6bc0",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "v92v4sPKI2vU1Ds0yvPoJ",
+                    "title": "[CMS] CONTENT-MANAGEMENT-SYSTEM: WORDPRESS"
+                },
+                "zw3WTWqoxWjDYUxM6tLcY": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#29a1aa",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "zw3WTWqoxWjDYUxM6tLcY",
+                    "title": "[VIDEO] VIDEO: PREMIERE PRO"
+                },
+                "nxiDzh02fuZ4n_oqc-Wrl": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ff7043",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "nxiDzh02fuZ4n_oqc-Wrl",
+                    "title": "[GPTP-I] GESTALTUNGSORIENTIERTE PRODUKTION - TECHNISCHE PRODUKTION I"
+                },
+                "jEPrQ7haHQzGWLRadLere": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#66bb6a",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "jEPrQ7haHQzGWLRadLere",
+                    "title": "[GPTP-II] GESTALTUNGSORIENTIERTE PRODUKTION - TECHNISCHE PRODUKTION II"
+                },
+                "PiD-2cQPnq57WLQqTlhSR": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#5c6bc0",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "PiD-2cQPnq57WLQqTlhSR",
+                    "title": "[PB] PRÜFUNGSBEGLEITUNG"
+                },
+                "Chjg6EPRCGFZPMbsWnlCO": {
+                    "isHiddenFromMenu": false,
+                    "isArchived": false,
+                    "isDone": false,
+                    "doneOn": null,
+                    "isEnableBacklog": false,
+                    "backlogTaskIds": [],
+                    "noteIds": [],
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#ffee58",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "Chjg6EPRCGFZPMbsWnlCO",
+                    "title": "LEKs"
+                }
+            }
+        },
+        "tag": {
+            "ids": [
+                "TODAY",
+                "EM_IMPORTANT",
+                "EM_URGENT",
+                "WdwvXaB_bys6WpcnUQbKj",
+                "h0HqD1cXaQYPX9zCh-zmq",
+                "qSjbg_pR0CGOIGbCQKytp",
+                "XTatkUP_alnCS2YeNHRY4",
+                "W4cncd2p7f9MpQoMek-Ge",
+                "5bW3pflJmSLhCx9Me-_56",
+                "rwFRrrKwQkrfYoEdqYQe2",
+                "N2HkeuG2BSrznke0xlyLI",
+                "M2iBA_QZ4ncWi19d8_yIk",
+                "-jcjg0oF6pjYHclFlfT8Q",
+                "ejMHAZW50ErWiBkqqjVK0",
+                "G0uhJvHLcCku1vVuHMhYP",
+                "bbpjZ91F19Yi-KTXudcGD",
+                "kdxDNytLdvuuaQUC1sJca",
+                "WYcHF5NpAMtIUNK0rkx_3",
+                "3X7ksZ_H9iwOYy5yMrn-j",
+                "cEXafv6W9b1c8i5nxjybu",
+                "XHV_5io7PENMXcONDg4Z0",
+                "-P-jEqhAN7c437Vlaub9C",
+                "LT1uvUHesDFDLzbq1ZJDB",
+                "DMWcr0Q4t-aLrjoK0kkk5",
+                "gj49txPNUwgS4tVh86QAT"
+            ],
+            "entities": {
+                "TODAY": {
+                    "color": null,
+                    "created": 1788772294705,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": true,
+                        "primary": "#6495ED",
+                        "huePrimary": "400",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": "",
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": "wb_sunny",
+                    "id": "TODAY",
+                    "title": "Today"
+                },
+                "EM_IMPORTANT": {
+                    "color": null,
+                    "created": 1788772294705,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#e11826",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": "",
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": "priority_high",
+                    "id": "EM_IMPORTANT",
+                    "title": "important"
+                },
+                "EM_URGENT": {
+                    "color": null,
+                    "created": 1788772294705,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#c618e1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": "",
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": "emergency",
+                    "id": "EM_URGENT",
+                    "title": "urgent"
+                },
+                "WdwvXaB_bys6WpcnUQbKj": {
+                    "color": "#26c6da",
+                    "created": 1788778845234,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "WdwvXaB_bys6WpcnUQbKj",
+                    "title": "[LEK]"
+                },
+                "h0HqD1cXaQYPX9zCh-zmq": {
+                    "color": "#ef5350",
+                    "created": 1790176073660,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "h0HqD1cXaQYPX9zCh-zmq",
+                    "title": "[LAT]"
+                },
+                "qSjbg_pR0CGOIGbCQKytp": {
+                    "color": "#26c6da",
+                    "created": 1790176086827,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "qSjbg_pR0CGOIGbCQKytp",
+                    "title": "[EDV]"
+                },
+                "XTatkUP_alnCS2YeNHRY4": {
+                    "color": "#29a1aa",
+                    "created": 1790176097896,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "XTatkUP_alnCS2YeNHRY4",
+                    "title": "[WiSo]"
+                },
+                "W4cncd2p7f9MpQoMek-Ge": {
+                    "color": "#29b6f6",
+                    "created": 1790176112795,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "W4cncd2p7f9MpQoMek-Ge",
+                    "title": "[KOM]"
+                },
+                "5bW3pflJmSLhCx9Me-_56": {
+                    "color": "#42a5f5",
+                    "created": 1790176123186,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "5bW3pflJmSLhCx9Me-_56",
+                    "title": "[MR]"
+                },
+                "rwFRrrKwQkrfYoEdqYQe2": {
+                    "color": "#ff7043",
+                    "created": 1790176140893,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "rwFRrrKwQkrfYoEdqYQe2",
+                    "title": "[GG]"
+                },
+                "N2HkeuG2BSrznke0xlyLI": {
+                    "color": "#ef5350",
+                    "created": 1790176148698,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "N2HkeuG2BSrznke0xlyLI",
+                    "title": "[ID]"
+                },
+                "M2iBA_QZ4ncWi19d8_yIk": {
+                    "color": "#78909c",
+                    "created": 1790176157134,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "M2iBA_QZ4ncWi19d8_yIk",
+                    "title": "[PS]"
+                },
+                "-jcjg0oF6pjYHclFlfT8Q": {
+                    "color": "#ffca28",
+                    "created": 1790176166070,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "-jcjg0oF6pjYHclFlfT8Q",
+                    "title": "[AI]"
+                },
+                "ejMHAZW50ErWiBkqqjVK0": {
+                    "color": "#78909c",
+                    "created": 1790176172439,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "ejMHAZW50ErWiBkqqjVK0",
+                    "title": "[AP]"
+                },
+                "G0uhJvHLcCku1vVuHMhYP": {
+                    "color": "#29a1aa",
+                    "created": 1790176182242,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "G0uhJvHLcCku1vVuHMhYP",
+                    "title": "[DH]"
+                },
+                "bbpjZ91F19Yi-KTXudcGD": {
+                    "color": "#ef5350",
+                    "created": 1790176202720,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "bbpjZ91F19Yi-KTXudcGD",
+                    "title": "[MI]"
+                },
+                "kdxDNytLdvuuaQUC1sJca": {
+                    "color": "#ef5350",
+                    "created": 1790176212159,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "kdxDNytLdvuuaQUC1sJca",
+                    "title": "[ACRO]"
+                },
+                "WYcHF5NpAMtIUNK0rkx_3": {
+                    "color": "#ffee58",
+                    "created": 1790176226063,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "WYcHF5NpAMtIUNK0rkx_3",
+                    "title": "[HTML/CSS]"
+                },
+                "3X7ksZ_H9iwOYy5yMrn-j": {
+                    "color": "#a05db1",
+                    "created": 1790176238607,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "3X7ksZ_H9iwOYy5yMrn-j",
+                    "title": "[UI/UX]"
+                },
+                "cEXafv6W9b1c8i5nxjybu": {
+                    "color": "#9ccc65",
+                    "created": 1790176248911,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "cEXafv6W9b1c8i5nxjybu",
+                    "title": "[PT]"
+                },
+                "XHV_5io7PENMXcONDg4Z0": {
+                    "color": "#ffee58",
+                    "created": 1790176257037,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "XHV_5io7PENMXcONDg4Z0",
+                    "title": "[CMS]"
+                },
+                "-P-jEqhAN7c437Vlaub9C": {
+                    "color": "#26c6da",
+                    "created": 1790176266319,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "-P-jEqhAN7c437Vlaub9C",
+                    "title": "[VIDEO]"
+                },
+                "LT1uvUHesDFDLzbq1ZJDB": {
+                    "color": "#29b6f6",
+                    "created": 1790176278738,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "LT1uvUHesDFDLzbq1ZJDB",
+                    "title": "[GPTP-I]"
+                },
+                "DMWcr0Q4t-aLrjoK0kkk5": {
+                    "color": "#7e57c2",
+                    "created": 1790176288888,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "DMWcr0Q4t-aLrjoK0kkk5",
+                    "title": "[GPTP-II]"
+                },
+                "gj49txPNUwgS4tVh86QAT": {
+                    "color": "#78909c",
+                    "created": 1790176304854,
+                    "advancedCfg": {
+                        "worklogExportSettings": {
+                            "cols": [
+                                "DATE",
+                                "START",
+                                "END",
+                                "TIME_CLOCK",
+                                "TITLES_INCLUDING_SUB"
+                            ],
+                            "roundWorkTimeTo": null,
+                            "roundStartTimeTo": null,
+                            "roundEndTimeTo": null,
+                            "separateTasksBy": " | ",
+                            "groupBy": "DATE"
+                        }
+                    },
+                    "theme": {
+                        "isAutoContrast": true,
+                        "isDisableBackgroundTint": false,
+                        "primary": "#a05db1",
+                        "huePrimary": "500",
+                        "accent": "#ff4081",
+                        "hueAccent": "500",
+                        "warn": "#e11826",
+                        "hueWarn": "500",
+                        "backgroundImageDark": null,
+                        "backgroundImageLight": null,
+                        "backgroundOverlayOpacity": 20,
+                        "backgroundImageBlur": 0
+                    },
+                    "taskIds": [],
+                    "icon": null,
+                    "id": "gj49txPNUwgS4tVh86QAT",
+                    "title": "[PB]"
+                }
+            }
+        },
+        "globalConfig": {
+            "appFeatures": {
+                "isTimeTrackingEnabled": false,
+                "isFocusModeEnabled": true,
+                "isSchedulerEnabled": true,
+                "isPlannerEnabled": true,
+                "isBoardsEnabled": false,
+                "isScheduleDayPanelEnabled": false,
+                "isIssuesPanelEnabled": false,
+                "isProjectNotesEnabled": true,
+                "isSyncIconEnabled": true,
+                "isSearchEnabled": true,
+                "isDonatePageEnabled": true,
+                "isEnableUserProfiles": false,
+                "isHabitsEnabled": false,
+                "isFinishDayEnabled": false
+            },
+            "localization": {},
+            "tasks": {
+                "isConfirmBeforeDelete": true,
+                "isAutoAddWorkedOnToToday": true,
+                "isAutoMarkParentAsDone": false,
+                "isTrayShowCurrent": true,
+                "defaultProjectId": "INBOX_PROJECT",
+                "isMarkdownFormattingInNotesEnabled": true,
+                "notesTemplate": "\n"
+            },
+            "misc": {
+                "isConfirmBeforeExit": false,
+                "isConfirmBeforeExitWithoutFinishDay": true,
+                "isMinimizeToTray": false,
+                "isLocalRestApiEnabled": true,
+                "isCheckForUpdates": true,
+                "isTrayShowCurrentCountdown": true,
+                "startOfNextDay": 0,
+                "startOfNextDayTime": "00:00",
+                "isDisableAnimations": false,
+                "isVerticalActionBar": false,
+                "isDisableCelebration": false,
+                "isShowProductivityTipLonger": false,
+                "customTheme": "default",
+                "defaultStartPage": 0,
+                "backgroundImageDark": null,
+                "backgroundImageLight": null,
+                "isUseCustomWindowTitleBar": true
+            },
+            "shortSyntax": {
+                "isEnableProject": true,
+                "isEnableDue": true,
+                "isEnableDeadline": false,
+                "isEnableTag": true,
+                "urlBehavior": "keep"
+            },
+            "evaluation": {
+                "isHideEvaluationSheet": false
+            },
+            "idle": {
+                "isOnlyOpenIdleWhenCurrentTask": false,
+                "isSuppressIdleDuringFocusMode": false,
+                "isEnableIdleTimeTracking": true,
+                "minIdleTime": 300000
+            },
+            "takeABreak": {
+                "isTakeABreakEnabled": true,
+                "isLockScreen": false,
+                "isTimedFullScreenBlocker": false,
+                "timedFullScreenBlockerDuration": 8000,
+                "isFocusWindow": false,
+                "takeABreakMessage": "You have been working for ${duration} without one. Go away from the computer! Take a short walk! Makes you more productive in the long run!",
+                "takeABreakMinWorkingTime": 3600000,
+                "takeABreakSnoozeTime": 900000,
+                "motivationalImgs": []
+            },
+            "dominaMode": {
+                "isEnabled": false,
+                "interval": 300000,
+                "volume": 75,
+                "text": "Your current task is: ${currentTaskTitle}",
+                "voice": ""
+            },
+            "focusMode": {
+                "isSkipPreparation": false,
+                "isShowPreparation": false,
+                "isPlayTick": false,
+                "focusModeSound": "off",
+                "isPauseTrackingDuringBreak": true,
+                "autoStartFocusOnPlay": false,
+                "isManualBreakStart": false
+            },
+            "flowtime": {
+                "isBreakEnabled": false,
+                "breakMode": "ratio",
+                "breakPercentage": 20,
+                "breakRules": []
+            },
+            "clipboardImages": {
+                "imagePath": null
+            },
+            "pomodoro": {
+                "duration": 1500000,
+                "breakDuration": 300000,
+                "longerBreakDuration": 900000,
+                "cyclesBeforeLongerBreak": 4
+            },
+            "keyboard": {
+                "globalShowHide": "Ctrl+Shift+X",
+                "globalToggleTaskStart": null,
+                "globalAddNote": null,
+                "globalAddTask": null,
+                "globalToggleTaskWidget": null,
+                "addNewTask": "Shift+A",
+                "addNewProject": "Shift+P",
+                "addNewNote": "Alt+N",
+                "openProjectNotes": "Shift+N",
+                "toggleTaskViewCustomizerPanel": "C",
+                "toggleIssuePanel": "P",
+                "focusSideNav": "Shift+D",
+                "toggleSideNavMode": "Ctrl+B",
+                "showHelp": "?",
+                "showSearchBar": "Shift+F",
+                "toggleBacklog": "B",
+                "goToFocusMode": "F",
+                "goToWorkView": "W",
+                "goToScheduledView": "Shift+S",
+                "goToTimeline": "Shift+T",
+                "goToSettings": null,
+                "zoomIn": "Ctrl++",
+                "zoomOut": "Ctrl+-",
+                "zoomDefault": "Ctrl+0",
+                "triggerSync": "Ctrl+S",
+                "taskEditTitle": null,
+                "taskToggleDetailPanelOpen": "I",
+                "taskOpenNotesPanel": "N",
+                "taskOpenNotesFullscreen": null,
+                "taskOpenEstimationDialog": "T",
+                "taskSchedule": "S",
+                "taskScheduleToday": "Shift+T",
+                "taskScheduleTomorrow": null,
+                "taskScheduleNextWeek": null,
+                "taskScheduleNextMonth": null,
+                "taskScheduleDeadline": "Shift+S",
+                "taskUnschedule": "U",
+                "taskToggleDone": "D",
+                "taskAddSubTask": "A",
+                "taskAddAttachment": "L",
+                "taskDelete": "Backspace",
+                "taskMoveToProject": "E",
+                "taskOpenContextMenu": "Q",
+                "selectPreviousTask": "K",
+                "selectNextTask": "J",
+                "moveTaskUp": "Ctrl+Shift+ArrowUp",
+                "moveTaskDown": "Ctrl+Shift+ArrowDown",
+                "moveTaskToTop": "Ctrl+Alt+ArrowUp",
+                "moveTaskToBottom": "Ctrl+Alt+ArrowDown",
+                "moveToBacklog": "Shift+B",
+                "expandSubTasks": null,
+                "collapseSubTasks": null,
+                "togglePlay": "Y",
+                "taskEditTags": "G"
+            },
+            "localBackup": {
+                "isEnabled": true,
+                "maxBackupFiles": 51
+            },
+            "sound": {
+                "volume": 75,
+                "isIncreaseDoneSoundPitch": true,
+                "doneSound": "ding-small-bell.mp3",
+                "breakReminderSound": null,
+                "trackTimeSound": null
+            },
+            "timeTracking": {
+                "defaultEstimate": 0,
+                "defaultEstimateSubTasks": 0,
+                "isNotifyWhenTimeEstimateExceeded": true,
+                "isAutoStartNextTask": false,
+                "isTrackingReminderEnabled": false,
+                "isTrackingReminderShowOnMobile": false,
+                "trackingReminderMinTime": 300000,
+                "isTrackingReminderNotify": false,
+                "isTrackingReminderFocusWindow": false
+            },
+            "reminder": {
+                "isCountdownBannerEnabled": true,
+                "countdownDuration": 600000,
+                "defaultTaskRemindOption": "AtStart",
+                "isFocusWindow": false,
+                "useAlarmStyleReminders": false,
+                "notifyOnDueDate": true,
+                "dueDateNotificationHour": 9
+            },
+            "schedule": {
+                "isWorkStartEndEnabled": true,
+                "workStart": "9:00",
+                "workEnd": "17:00",
+                "isLunchBreakEnabled": false,
+                "lunchBreakStart": "13:00",
+                "lunchBreakEnd": "14:00"
+            },
+            "sync": {
+                "isEnabled": true,
+                "isCompressionEnabled": false,
+                "isEncryptionEnabled": false,
+                "isUseSplitSyncFiles": false,
+                "encryptKey": null,
+                "syncProvider": "Dropbox",
+                "syncInterval": 300000,
+                "isManualSyncOnly": false,
+                "webDav": {
+                    "baseUrl": null,
+                    "userName": null,
+                    "password": null,
+                    "syncFolderPath": "super-productivity"
+                },
+                "superSync": {
+                    "baseUrl": "https://sync.super-productivity.com",
+                    "userName": null,
+                    "password": null,
+                    "accessToken": null,
+                    "syncFolderPath": null
+                },
+                "localFileSync": {
+                    "syncFolderPath": ""
+                },
+                "nextcloud": {
+                    "serverUrl": null,
+                    "loginName": null,
+                    "userName": null,
+                    "password": null,
+                    "syncFolderPath": "super-productivity"
+                },
+                "oneDrive": {
+                    "useCustomApp": true,
+                    "clientId": null,
+                    "tenantId": "common",
+                    "syncFolderPath": "Super Productivity"
+                }
+            }
+        },
+        "note": {
+            "ids": [],
+            "entities": {},
+            "todayOrder": []
+        },
+        "issueProvider": {
+            "ids": [],
+            "entities": {}
+        },
+        "planner": {
+            "days": {
+                "2026-09-18": []
+            }
+        },
+        "boards": {
+            "boardCfgs": [
+                {
+                    "id": "EISENHOWER_MATRIX",
+                    "title": "F.BOARDS.DEFAULT.EISENHAUER_MATRIX",
+                    "cols": 2,
+                    "panels": [
+                        {
+                            "id": "URGENT_AND_IMPORTANT",
+                            "title": "F.BOARDS.DEFAULT.URGENT_IMPORTANT",
+                            "includedTagIds": [
+                                "EM_IMPORTANT",
+                                "EM_URGENT"
+                            ],
+                            "excludedTagIds": [],
+                            "taskIds": [],
+                            "taskDoneState": 1,
+                            "scheduledState": 1,
+                            "backlogState": 1,
+                            "isParentTasksOnly": true,
+                            "projectIds": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "NOT_URGENT_AND_IMPORTANT",
+                            "title": "F.BOARDS.DEFAULT.NOT_URGENT_IMPORTANT",
+                            "includedTagIds": [
+                                "EM_IMPORTANT"
+                            ],
+                            "excludedTagIds": [
+                                "EM_URGENT"
+                            ],
+                            "taskIds": [],
+                            "taskDoneState": 1,
+                            "scheduledState": 1,
+                            "backlogState": 1,
+                            "isParentTasksOnly": true,
+                            "projectIds": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "URGENT_AND_NOT_IMPORTANT",
+                            "title": "F.BOARDS.DEFAULT.URGENT_NOT_IMPORTANT",
+                            "includedTagIds": [
+                                "EM_URGENT"
+                            ],
+                            "excludedTagIds": [
+                                "EM_IMPORTANT"
+                            ],
+                            "taskIds": [],
+                            "taskDoneState": 1,
+                            "scheduledState": 1,
+                            "backlogState": 1,
+                            "isParentTasksOnly": true,
+                            "projectIds": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "NOT_URGENT_AND_NOT_IMPORTANT",
+                            "title": "F.BOARDS.DEFAULT.NOT_URGENT_NOT_IMPORTANT",
+                            "includedTagIds": [],
+                            "excludedTagIds": [
+                                "EM_IMPORTANT",
+                                "EM_URGENT"
+                            ],
+                            "taskIds": [],
+                            "taskDoneState": 1,
+                            "scheduledState": 1,
+                            "backlogState": 1,
+                            "isParentTasksOnly": true,
+                            "projectIds": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "KANBAN_DEFAULT",
+                    "title": "F.BOARDS.DEFAULT.KANBAN",
+                    "cols": 3,
+                    "panels": [
+                        {
+                            "id": "TODO",
+                            "title": "F.BOARDS.DEFAULT.TO_DO",
+                            "taskDoneState": 3,
+                            "includedTagIds": [],
+                            "excludedTagIds": [
+                                "KANBAN_IN_PROGRESS"
+                            ],
+                            "taskIds": [],
+                            "scheduledState": 1,
+                            "backlogState": 2,
+                            "isParentTasksOnly": false,
+                            "projectIds": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "IN_PROGRESS",
+                            "title": "F.BOARDS.DEFAULT.IN_PROGRESS",
+                            "taskDoneState": 3,
+                            "includedTagIds": [
+                                "KANBAN_IN_PROGRESS"
+                            ],
+                            "excludedTagIds": [],
+                            "taskIds": [],
+                            "scheduledState": 1,
+                            "backlogState": 2,
+                            "isParentTasksOnly": false,
+                            "projectIds": [
+                                ""
+                            ]
+                        },
+                        {
+                            "id": "DONE",
+                            "title": "F.BOARDS.DEFAULT.DONE",
+                            "taskDoneState": 2,
+                            "includedTagIds": [],
+                            "excludedTagIds": [],
+                            "taskIds": [],
+                            "scheduledState": 1,
+                            "backlogState": 2,
+                            "isParentTasksOnly": false,
+                            "projectIds": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "metric": {
+            "ids": [
+                "2026-09-21"
+            ],
+            "entities": {
+                "2026-09-21": {
+                    "id": "2026-09-21",
+                    "focusSessions": [
+                        2792716
+                    ],
+                    "remindTomorrow": false,
+                    "reflections": []
+                }
+            }
+        },
+        "simpleCounter": {
+            "ids": [
+                "STANDING_DESK_ID",
+                "COFFEE_COUNTER",
+                "STRETCHING_COUNTER"
+            ],
+            "entities": {
+                "STANDING_DESK_ID": {
+                    "id": "STANDING_DESK_ID",
+                    "title": "Standing Desk Timer",
+                    "isEnabled": false,
+                    "icon": "directions_walk",
+                    "type": "StopWatch",
+                    "countOnDay": {},
+                    "isOn": false,
+                    "isTrackStreaks": true,
+                    "streakMinValue": 1800000,
+                    "streakMode": "specific-days",
+                    "streakWeekDays": {
+                        "0": false,
+                        "1": true,
+                        "2": true,
+                        "3": true,
+                        "4": true,
+                        "5": true,
+                        "6": false
+                    }
+                },
+                "COFFEE_COUNTER": {
+                    "id": "COFFEE_COUNTER",
+                    "title": "Coffee Counter",
+                    "isEnabled": false,
+                    "icon": "free_breakfast",
+                    "type": "ClickCounter",
+                    "countOnDay": {},
+                    "isOn": false,
+                    "isTrackStreaks": false,
+                    "streakMinValue": 2,
+                    "streakMode": "specific-days",
+                    "streakWeekDays": {
+                        "0": false,
+                        "1": true,
+                        "2": true,
+                        "3": true,
+                        "4": true,
+                        "5": true,
+                        "6": false
+                    }
+                },
+                "STRETCHING_COUNTER": {
+                    "id": "STRETCHING_COUNTER",
+                    "title": "Stretching Counter",
+                    "isEnabled": false,
+                    "icon": "fitness_center",
+                    "type": "RepeatedCountdownReminder",
+                    "countOnDay": {},
+                    "isOn": false,
+                    "isTrackStreaks": true,
+                    "streakMinValue": 8,
+                    "streakMode": "specific-days",
+                    "streakWeekDays": {
+                        "0": false,
+                        "1": true,
+                        "2": true,
+                        "3": true,
+                        "4": true,
+                        "5": true,
+                        "6": false
+                    },
+                    "countdownDuration": 1800000
+                }
+            }
+        },
+        "taskRepeatCfg": {
+            "ids": [],
+            "entities": {}
+        },
+        "menuTree": {
+            "projectTree": [
+                {
+                    "k": "p",
+                    "id": "Chjg6EPRCGFZPMbsWnlCO"
+                },
+                {
+                    "k": "p",
+                    "id": "1j4QyEASb4A0fIGwIMEox"
+                },
+                {
+                    "k": "p",
+                    "id": "ymFONiH6phNJy8SFSw5gW"
+                },
+                {
+                    "k": "p",
+                    "id": "7BuS44Icd48W85QL3tXw6"
+                },
+                {
+                    "k": "p",
+                    "id": "H3r_U0uI1yIfmXMAlc9SO"
+                },
+                {
+                    "k": "p",
+                    "id": "rivSOsL0ppZ9lHKP__We6"
+                },
+                {
+                    "k": "p",
+                    "id": "yyUjH09tsr61Kbkaq8LdR"
+                },
+                {
+                    "k": "p",
+                    "id": "xFRG5kPYpQAQPLlmvdMFE"
+                },
+                {
+                    "k": "p",
+                    "id": "LNmBfjSWdfthxj2NuSN2v"
+                },
+                {
+                    "k": "p",
+                    "id": "1bapR21a15uI_8QK9Di11"
+                },
+                {
+                    "k": "p",
+                    "id": "aRkkKXWQhSlgTNPV231tS"
+                },
+                {
+                    "k": "p",
+                    "id": "L2Ir-2ZVAvmk3rynIhjKU"
+                },
+                {
+                    "k": "p",
+                    "id": "QMCrcTLiPhLC3gZRsmJlb"
+                },
+                {
+                    "k": "p",
+                    "id": "rLYFb1ZACphZbMBLxZneM"
+                },
+                {
+                    "k": "p",
+                    "id": "NO8IeI29djX8natNxMRWX"
+                },
+                {
+                    "k": "p",
+                    "id": "glNoK5ZDYscWPES3aMeuA"
+                },
+                {
+                    "k": "p",
+                    "id": "XOIo5f9uyo7ZXBwThrQqP"
+                },
+                {
+                    "k": "p",
+                    "id": "v92v4sPKI2vU1Ds0yvPoJ"
+                },
+                {
+                    "k": "p",
+                    "id": "zw3WTWqoxWjDYUxM6tLcY"
+                },
+                {
+                    "k": "p",
+                    "id": "nxiDzh02fuZ4n_oqc-Wrl"
+                },
+                {
+                    "k": "p",
+                    "id": "jEPrQ7haHQzGWLRadLere"
+                },
+                {
+                    "k": "p",
+                    "id": "PiD-2cQPnq57WLQqTlhSR"
+                }
+            ],
+            "tagTree": [
+                {
+                    "k": "t",
+                    "id": "EM_IMPORTANT"
+                },
+                {
+                    "k": "t",
+                    "id": "EM_URGENT"
+                },
+                {
+                    "k": "t",
+                    "id": "WdwvXaB_bys6WpcnUQbKj"
+                },
+                {
+                    "k": "t",
+                    "id": "h0HqD1cXaQYPX9zCh-zmq"
+                },
+                {
+                    "k": "t",
+                    "id": "qSjbg_pR0CGOIGbCQKytp"
+                },
+                {
+                    "k": "t",
+                    "id": "XTatkUP_alnCS2YeNHRY4"
+                },
+                {
+                    "k": "t",
+                    "id": "W4cncd2p7f9MpQoMek-Ge"
+                },
+                {
+                    "k": "t",
+                    "id": "5bW3pflJmSLhCx9Me-_56"
+                },
+                {
+                    "k": "t",
+                    "id": "rwFRrrKwQkrfYoEdqYQe2"
+                },
+                {
+                    "k": "t",
+                    "id": "N2HkeuG2BSrznke0xlyLI"
+                },
+                {
+                    "k": "t",
+                    "id": "M2iBA_QZ4ncWi19d8_yIk"
+                },
+                {
+                    "k": "t",
+                    "id": "-jcjg0oF6pjYHclFlfT8Q"
+                },
+                {
+                    "k": "t",
+                    "id": "ejMHAZW50ErWiBkqqjVK0"
+                },
+                {
+                    "k": "t",
+                    "id": "G0uhJvHLcCku1vVuHMhYP"
+                },
+                {
+                    "k": "t",
+                    "id": "bbpjZ91F19Yi-KTXudcGD"
+                },
+                {
+                    "k": "t",
+                    "id": "kdxDNytLdvuuaQUC1sJca"
+                },
+                {
+                    "k": "t",
+                    "id": "WYcHF5NpAMtIUNK0rkx_3"
+                },
+                {
+                    "k": "t",
+                    "id": "3X7ksZ_H9iwOYy5yMrn-j"
+                },
+                {
+                    "k": "t",
+                    "id": "cEXafv6W9b1c8i5nxjybu"
+                },
+                {
+                    "k": "t",
+                    "id": "XHV_5io7PENMXcONDg4Z0"
+                },
+                {
+                    "k": "t",
+                    "id": "-P-jEqhAN7c437Vlaub9C"
+                },
+                {
+                    "k": "t",
+                    "id": "LT1uvUHesDFDLzbq1ZJDB"
+                },
+                {
+                    "k": "t",
+                    "id": "DMWcr0Q4t-aLrjoK0kkk5"
+                },
+                {
+                    "k": "t",
+                    "id": "gj49txPNUwgS4tVh86QAT"
+                }
+            ]
+        },
+        "timeTracking": {
+            "tag": {
+                "TODAY": {
+                    "2026-09-18": {
+                        "e": 1789722180000,
+                        "s": 1789718700000
+                    },
+                    "2026-09-21": {
+                        "e": 1789973940000,
+                        "s": 1789971060000
+                    }
+                }
+            },
+            "project": {
+                "Chjg6EPRCGFZPMbsWnlCO": {
+                    "2026-09-18": {
+                        "e": 1789722180000,
+                        "s": 1789718700000
+                    },
+                    "2026-09-21": {
+                        "e": 1789973940000,
+                        "s": 1789971060000
+                    }
+                }
+            }
+        },
+        "pluginUserData": [],
+        "pluginMetadata": [],
+        "reminders": [],
+        "section": {
+            "ids": [],
+            "entities": {}
+        },
+        "archiveYoung": {
+            "task": {
+                "ids": [],
+                "entities": {}
+            },
+            "timeTracking": {
+                "tag": {},
+                "project": {}
+            },
+            "lastTimeTrackingFlush": 0
+        },
+        "archiveOld": {
+            "task": {
+                "ids": [],
+                "entities": {}
+            },
+            "timeTracking": {
+                "tag": {},
+                "project": {}
+            },
+            "lastTimeTrackingFlush": 0
+        }
+    }
+}
