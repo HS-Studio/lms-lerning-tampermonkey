@@ -1,6 +1,7 @@
 # LMS → Super Productivity
 
-Importiert Viona-Aufgaben in Super Productivity und zeigt erledigte Abgaben im LMS an
+Importiert Viona-Aufgaben in Super Productivity und zeigt erledigte Abgaben im LMS an.<br/>
+Wenn Aufgaben in Super Productivity abgehakt werden, werden sie auf der Vionaseite durchgestrichen.
 
 ## Einrichtung
 
@@ -50,8 +51,6 @@ Dieser Schritt ist **nur für Chrome-Nutzer** erforderlich:
 - Bestätige den Import.
 
 Die Aufgaben werden nun den entsprechenden Projekten in Super Productivity zugeordnet.
-
-Wenn Aufgaben in Super Productivity abgehakt werden, werden sie auf der Vionaseite durchgestrichen.
 
 ***
 
