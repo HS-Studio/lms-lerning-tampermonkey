@@ -18,7 +18,7 @@ Installiere das Tampermonkey-Add-on für deinen Browser:
 
 ### 3. Tampermonkey-Script installieren
 
-Installiere das aktuelle [Tampermonkey-Script](https://github.com/HS-Studio/lms-lerning-tampermonkey/raw/refs/heads/main/LMS_Super_Productivity-0.6.user.js).
+Installiere das aktuelle [Tampermonkey-Script](https://raw.githubusercontent.com/HS-Studio/lms-lerning-tampermonkey/refs/heads/main/LMS_Super_Productivity.user.js).
 
 ### 4. Super Productivity einrichten
 
